@@ -1,0 +1,14 @@
+body{
+ background: pink;
+}
+
+.btn{
+    border: 2px solid black;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+.btn:active{
+    background: red;
+}
